@@ -1,0 +1,19 @@
+{
+  "name": "mern_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addis16/MERN_APP.git"
+  },
+  "author": "Jacob Addis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addis16/MERN_APP/issues"
+  },
+  "homepage": "https://github.com/addis16/MERN_APP#readme"
+}
